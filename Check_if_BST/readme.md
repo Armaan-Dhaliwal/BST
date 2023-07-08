@@ -1,1 +1,1 @@
-Check_if_BST
+Check if BST
