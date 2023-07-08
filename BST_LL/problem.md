@@ -1,4 +1,4 @@
-Problem Statement: BST to LL
+Problem Statement: FLatten BST to LL
 Problem Level: EASY
 Problem Description:
 Given a BST, convert it into a sorted linked list. You have to return the head of LL.
